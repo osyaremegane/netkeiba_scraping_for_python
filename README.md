@@ -14,7 +14,10 @@ playwright install
 ## スクリプト実行手順
 ```
 # git clone
-git clone 
+git clone https://github.com/tonkatsu-loin/netkeiba_scraping.git
 
+# exec script
+cd netkeiba_scraping/src
+python get_raceid_from_netkeiba.py
 ```
 
