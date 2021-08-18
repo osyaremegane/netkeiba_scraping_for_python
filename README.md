@@ -11,7 +11,7 @@ pip install playwright
 playwright install
 ```
 
-## スクリプト実行手順
+## レースID取得スクリプト実行手順
 ```
 # git clone
 git clone https://github.com/tonkatsu-loin/netkeiba_scraping.git
@@ -21,3 +21,7 @@ cd netkeiba_scraping/src
 python get_raceid_from_netkeiba.py
 ```
 
+## 各レース結果取得スクリプト実行手順
+```
+# 準備中
+```
